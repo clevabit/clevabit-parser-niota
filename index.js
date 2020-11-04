@@ -1,7 +1,14 @@
 /*
  * The MIT License (MIT)
  *
+ * This parser for the clevabit CO2 Room Climate Traffic Light (rooclino)
+ * is based on the original CBOR parser work from Patrick Gansterer.
+ *
+ * It was extended by clevabit to execute the actual decoding and data parsing
+ * of the data packet based on the clevabit on-wire protocol.
+ *
  * Copyright (c) 2014-2016 Patrick Gansterer <paroga@paroga.com>
+ * Copyright (c) 2020 clevabit GmbH <hello@clevabit.com>
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
