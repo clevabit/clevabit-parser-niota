@@ -1,0 +1,22 @@
+{
+  "name": "clevabit-parser-niota",
+  "version": "1.0.0",
+  "description": "clevabit rooclino Parser for Niota",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clevabit/clevabit-parser-niota.git"
+  },
+  "author": "clevabit GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clevabit/clevabit-parser-niota/issues"
+  },
+  "homepage": "https://github.com/clevabit/clevabit-parser-niota#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.6"
+  }
+}
